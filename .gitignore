@@ -1,6 +1,7 @@
 node_modules
 dist
 build
+.tour-test
 .next
 *.tsbuildinfo
 vite.config.js
